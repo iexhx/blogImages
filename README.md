@@ -6,6 +6,6 @@ medias文件夹存储公用图片
 
 一个文件夹存储一篇博客内的图片
 文件夹命名规则遵循：某一类+下划线+博客具体内容
-举例如：mongodb_mongodb-kafka-connect-confluent
+举例如：mongodb_mongodb_kafka_connect_confluent
 
 
